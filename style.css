@@ -168,7 +168,10 @@ font-weight: 350;
         display: none;
     }
     .hamburger-menu{
-        display: block;
+        display: inline-flex;
+        align-items:center;
+        justify-content:center;
+        
     }
 
 
