@@ -83,8 +83,7 @@ transform: translateX(15%);
 
 .hamburger-menu{
     display: none;
-    min-width:10x;
-    min-height:10px;
+    height:100%;
 }
 
 .links .nav-link{
