@@ -48,7 +48,7 @@
  observer.observe(reverese);
 
 
- const hamburger = document.querySelector('.hamburger')
+ const hamburger = document.querySelector('.hamburger-menu')
  const nav = document.querySelector('.navbar')
  const sidebar = document.querySelector('.sidebar')
 
