@@ -32,7 +32,7 @@ transform: translateX(15%);
     background: #FFFF;
     width: 100%;
     height: auto;
-    z-index: 1000;
+    z-index: 200;
     transition: 300ms ease-in-out;
 }
 
@@ -234,7 +234,7 @@ font-weight: 350;
     gap: 3rem;
 }
     .sidebar-links li{
-        margint-top:3rem;
+        margint-top:5rem;
     }
 .sidebar.open{
     transform: translateX(0);
