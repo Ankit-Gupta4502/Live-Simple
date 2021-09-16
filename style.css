@@ -8,10 +8,9 @@
     font-family:Raleway,'sans-serif','Poppins';
 }
 
-/* body,html{
+body,html{
     overflow-x:hidden;
-    height:100%;
-} */
+}
 
 a{
     text-decoration: none;
@@ -218,6 +217,7 @@ font-weight: 350;
     z-index: 300;
     width: 50%;
     background: #fff;
+    height:100vh;
     display: flex;
     justify-content: center;
     align-items: center;
