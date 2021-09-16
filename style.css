@@ -213,6 +213,7 @@ font-weight: 350;
     position: fixed;
     left:0;
     top:0:
+     bottom:0;
     z-index: 300;
     width: 50%;
     background: #fff;
@@ -232,10 +233,9 @@ font-weight: 350;
     align-items: center;
     list-style: none;
     gap: 3rem;
+    margint-top:4rem;
 }
-    .sidebar-links li{
-        margint-top:5rem;
-    }
+    
 .sidebar.open{
     transform: translateX(0);
 }
